@@ -1,70 +1,74 @@
 # Machine Learning Fundamentals for Programmers
 
-This course will teach participants the fundamental building blocks of statistical learning theory. We will not focus on libraries or languages, assuming attendants to be capable of learning those on their own, but will instead focus on the theory needed to see opportunities and pick appropriate and implementable techniques to use with real-life data. Days will consist of lectures in the morning followed by open-ended exercises in the afternoons. Attendees are encouraged to bring data, ideas, products, and problems to work on specifically and will start on a personal project on the last day that can be continued after the course, professionally or personally. 
+This course will teach participants the fundamental building blocks of statistical learning needed to see opportunities in real-life data and pick techniques that can be shipped in product today. It is designed for those who have no background in machine learning or statistics, but a love for hacking.
+
+Attendees are expected to have a background in programming and basic working knowledge of at least one language with basic statistical libraries (Python, R, Julia, Java/Scala/Clojure, Matlab/Octave, Go). Days will consist of morning lectures focused on building theoretical knowledge, followed by open-ended exercises in the afternoon, completed in any language/framework of the students' preference, designed to demystify the theory and show the underlying hackability of these ideas.
+
+Everyone is encouraged to bring data, ideas, products, and problems to work on specifically and will start on a personal project on the last day that can be continued after the course, professionally or personally.
+
+
+## Precourse
+* Intro to Probability/Statistics
 
 
 ## Statistical Learning Theory
 
-#### Topics: 
-* History of Statistical Learning 
-* Formulating the Problem: Approximation vs Estimation Error 
-* Controlling the Bayes Risk 
-* Overfitting 
-* Bias / Variance 
+#### Topics:
+* History of Statistical Learning
+* Formulating the Problem: Approximation vs Estimation Error
+* Controlling the Bayes Risk
+* Overfitting
+* Bias / Variance
 
-#### Exercises: 
-* Perceptron 
-* K-nearest Neighbors 
+#### Exercises:
+* Perceptron
+* K-nearest Neighbors
 
 
 ## Regression and Continuous Distributions
 
-#### Topics: 
-* Expectations - Robustness, assumptions
-* Entropy, Divergences and distance measures
-* Gaussianity
-* Bayesian Formulations
+#### Topics:
+* What does the mean really tell you?
+* Probability distributions and noise.
+* Bayes' Rule. Bayesian Regression.
 * Regularization
 
-#### Exercises: 
+#### Exercises:
 * Condition Numbers and Inversions
 * BYO Regularization
 * Robust Regression
 * Gaussian Processes
 
 
-## Small Shapes in Big Data 
+## Small Shapes in Big Data
 
 #### Topics:
-* A Brief History of Data Visualization 
-* Manifolds, Factors, and Lower-Dimensional Structure 
-* Eigen Everywhere
+* A Brief History of Data Visualization
+* Manifolds, Factors, and Lower-Dimensional Structure
+* Egeindecomposition & PCA
 
-#### Exercises: 
+#### Exercises:
 * Probablistic PCA
 * Multidimensional Scaling
 
 
 ## Simple NLP
 
-#### Topics: 
-* Tokenization/BOW/TF-IDF
-* Thinking of words as distributions
-* Bayesian Hierarchical Modeling 
+#### Topics:
+* Preprocessing, Tokenization, Bag-Of-Words Models, TF-IDF.
+* Discrete distributions.
 * Naive Bayes + LDA
-* Embedding
-
-#### Exercises: 
-* Personal NLP Project. 
-
-
-## Implementation
-* Whirlwind Intro to Network/Graph Analysis 
-* Optimization 
-* Distributed Computing 
-* Probablistic Programming 
-* Languages!
+* Word and Document Embedding
 
 #### Exercises:
-* Final Personal Project. 
+* Kaggle Competition
 
+
+## Implementation / Odds & Ends
+* Intro to Network/Graph Analysis
+* Optimization
+* Probablistic Programming
+* Big Data
+
+#### Exercises:
+* Final Personal Project.
