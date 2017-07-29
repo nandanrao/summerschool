@@ -16,6 +16,7 @@ Everyone is encouraged to bring data, ideas, products, and problems to work on s
 
 ## Precourse
 * Intro to Probability/Statistics
+* Statistical Programming in Python/R
 
 ## Day 0
 
