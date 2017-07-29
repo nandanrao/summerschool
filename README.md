@@ -1,8 +1,15 @@
 # Machine Learning Fundamentals for Programmers
 
-This course will teach participants the fundamental building blocks of statistical learning needed to see opportunities in real-life data and pick techniques that can be shipped in product today. It is designed for those who have no background in machine learning or statistics, but a love for hacking.
+A course for programmers to understand how algorithms learn from data and how they can take advantage of them today.
 
-Attendees are expected to have a background in programming and basic working knowledge of at least one language with basic statistical libraries (Python, R, Julia, Java/Scala/Clojure, Matlab/Octave, Go). Days will consist of morning lectures focused on building theoretical knowledge, followed by open-ended exercises in the afternoon, completed in any language/framework of the students' preference, designed to demystify the theory and show the underlying hackability of these ideas.
+### Outcomes
+Participants will walk away with the ability to see basic opportunities, pick appropriate algorithms, and implement techniques that can be shipped in products today. They will be familiar with contemporary popular algorithms and have developed the theoretical foundations needed for deeper self-study within the field.
+
+### Audience
+This course is for those who have little or no background in machine learning or statistics, but a love for hacking, a background in programming, and basic working knowledge of at least one language with statistical libraries (Python, R, Java/Clojure/Scala, Matlab, etc.).
+
+### Structure
+Days will consist of morning lectures focused on building theoretical knowledge, followed by open-ended exercises in the afternoon, completed in any language/framework of the students' preference, designed to demystify the theory and show the underlying hackability of these ideas.
 
 Everyone is encouraged to bring data, ideas, products, and problems to work on specifically and will start on a personal project on the last day that can be continued after the course, professionally or personally.
 
@@ -12,15 +19,15 @@ Everyone is encouraged to bring data, ideas, products, and problems to work on s
 
 ## Day 0
 
-The Sunday before class starts we will have an optional short afternoon session to go over probability basics for those that felt the precourse material was not enough. This is followed by beers.
+The Sunday before class starts we will have a short afternoon session to go over probability basics. This will be followed by beers.
 
 ## Day 1: Kaggle Competitions
 
-The first day is for getting your hands dirty and implemeneting real prediction algorithms with the latest libraries and tools. The rest of the week will be about building intuition around why these techniques act the way they do, but the first day is about gaining familiarity through usage. The afternoon will consist of a data hackathon that will last into the evening.
+The first day is for getting your hands dirty and implementing real prediction algorithms with the latest libraries and tools, leaving theory in the dust and gaining familiarity through usage. We introduce a series of modern tools and everyone will compete in a data hackathon that will last into the evening.
 
 #### Topics:
 * A Practical Introduction to Errors
-* Languages for Machine Learning
+* Languages and Libraries for Machine Learning
 * Modern Winning Algorithms
 
 #### Exercises:
@@ -28,7 +35,7 @@ The first day is for getting your hands dirty and implemeneting real prediction 
 
 ## Day 2: Statistical Learning Theory
 
-Here we go all the way back to the beginning of the field and formulate the problem formally: what does it mean to model the world probablistically. We then look at two of the most fundamental ideas that will be woven throughout the week: what does it mean for a model to overfit and how can we trade off the bias and variance of a model to make it more effective. Exercises consist of exploring and proving these ideas in code.
+Here we go all the way back to the beginning of the field and formulate the problem formally: what does it mean to model the world probablistically. We then look at two of the most fundamental ideas that will be woven throughout the week: what does it mean for a model to overfit and how can we trade off the bias and variance of a model. Exercises consist of exploring and proving these ideas in code.
 
 #### Topics:
 * History of Statistical Learning
@@ -44,7 +51,7 @@ Here we go all the way back to the beginning of the field and formulate the prob
 
 ## Day 3: Regression and Continuous Distributions
 
-We formulate the problem of regression, and consider how assumptions about noise affect our predictive ability. We introduce Bayesian regression to show how formalizing prior knowledge into a distribution allows us to learn more from the data than we would otherwise be able to learn.
+We push ideas of probabilistic thinking further by considering how different assumptions about the randomness in the world can lead to very different conclusions. We introduce Bayesian statistics to show how formalizing prior knowledge allows us to learn more from the data than we would otherwise be able to learn.
 
 #### Topics:
 * What does the mean really tell you?
@@ -78,7 +85,7 @@ Data often consists of many variables and in order to generalize we believe the 
 
 ## Day 5: Simple NLP & Discrete Distributions
 
-We will explore several simple techniques in NLP that are extremely effective in practice and also because it will allow us to extend our knowledge of Bayesian formulations and see again how reasonable assumptions allow us to learn vast amounts from our data. We'll briefly introduce some other ideas, and students will work on their final personal project for the rest of the day.
+We will explore several simple techniques in Natural Language Processing (NLP) that are extremely effective in practice and also because it will allow us to extend our knowledge of Bayesian formulations and see again how reasonable assumptions allow us to learn vast amounts from our data. We'll briefly introduce some other ideas, and students will work on their final personal project for the rest of the day.
 
 #### Topics:
 * Preprocessing, Tokenization, Bag-Of-Words Models, TF-IDF.
