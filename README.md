@@ -1,6 +1,6 @@
 # Machine Learning Fundamentals for Programmers
 
-A course for programmers to understand how algorithms learn from data and how they can take advantage of them today.
+A course for programmers to understand how algorithms learn from data and how they can be taken advantage of today.
 
 ### Outcomes
 Participants will walk away with the ability to see basic opportunities, pick appropriate algorithms, and implement techniques that can be shipped in products today. They will be familiar with contemporary popular algorithms and have developed the theoretical foundations needed for deeper self-study within the field.
