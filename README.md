@@ -1,30 +1,27 @@
-# Machine Learning Fundamentals for Programmers
+# Data Science Fundamentals for Programmers
 
-A course for programmers to understand how algorithms learn from data and how they can be taken advantage of today.
+Join us for a one-week immersive course to learn the foundations of Data Science and become familiar with the main technologies used in the industry. Throughout the course you will understand how algorithms learn from data and how they can be taken advantage of today. The course includes the development of a personal Data Science project.
 
-### Outcomes
-Participants will walk away with the ability to see basic opportunities, pick appropriate algorithms, and implement techniques that can be shipped in products today. They will be familiar with contemporary popular algorithms and have developed the theoretical foundations needed for deeper self-study within the field.
+### Requirements
+This course is for programmers who have little or no background in machine learning or statistics, but a love for hacking, and basic working knowledge of at least one language with statistical libraries (Python, R, Java/Clojure/Scala, Matlab, etc.).
 
-### Audience
-This course is for those who have little or no background in machine learning or statistics, but a love for hacking, a background in programming, and basic working knowledge of at least one language with statistical libraries (Python, R, Java/Clojure/Scala, Matlab, etc.).
-
-### Structure
-Days will consist of morning lectures focused on building theoretical knowledge, followed by open-ended exercises in the afternoon, completed in any language/framework of the students' preference, designed to demystify the theory and show the underlying hackability of these ideas.
+### Course structure
+Lectures from 9 am to 1 pm, and from 2 to 6 pm. The mornings are focused on building theoretical knowledge, followed by open-ended exercises in the afternoon, completed in any language/framework of the students' preference, designed to demystify the theory and show the underlying hackability of these ideas.
 
 Everyone is encouraged to bring data, ideas, products, and problems to work on specifically and will start on a personal project on the last day that can be continued after the course, professionally or personally.
 
 
-## Precourse
-* Intro to Probability/Statistics
-* Statistical Programming in Python/R
+## Pre course
+* Intro to Probability / Statistics
+* Statistical Programming in Python / R
 
 ## Day 0
 
-The Sunday before class starts we will have a short afternoon session to go over probability basics. This will be followed by beers.
+The Sunday before class starts we have a short afternoon session to go over probability basics, followed by beers.
 
 ## Day 1: Kaggle Competitions
 
-The first day is for getting your hands dirty and implementing real prediction algorithms with the latest libraries and tools, leaving theory in the dust and gaining familiarity through usage. We introduce a series of modern tools and everyone will compete in a data hackathon that will last into the evening.
+The first day is for getting your hands dirty and implementing real prediction algorithms with the latest libraries and tools, leaving theory in the dust and gaining familiarity through usage. We introduce a series of modern tools and everyone competes in a data hackathon that lasts into the evening.
 
 #### Topics:
 * A Practical Introduction to Errors
@@ -86,7 +83,7 @@ Data often consists of many variables and in order to generalize we believe the 
 
 ## Day 5: Simple NLP & Discrete Distributions
 
-We will explore several simple techniques in Natural Language Processing (NLP) that are extremely effective in practice and also because it will allow us to extend our knowledge of Bayesian formulations and see again how reasonable assumptions allow us to learn vast amounts from our data. We'll briefly introduce some other ideas, and students will work on their final personal project for the rest of the day.
+We explore several simple techniques in Natural Language Processing (NLP) that are extremely effective in practice and also because it allows us to extend our knowledge of Bayesian formulations and see again how reasonable assumptions can make us learn vast amounts from our data. Students work on their final personal project for the rest of the day.
 
 #### Topics:
 * Preprocessing, Tokenization, Bag-Of-Words Models, TF-IDF.
@@ -100,6 +97,6 @@ We will explore several simple techniques in Natural Language Processing (NLP) t
 * Final Personal Project.
 
 
-## Day 5+: Workday
+## Day 5+: Mentoring
 
-Saturday will be an optional day to come in and continue working on personal projects, ask questions, etc.
+Saturday is an optional day to come in and continue working on personal projects, ask questions, etc.
