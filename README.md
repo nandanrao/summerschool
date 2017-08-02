@@ -1,6 +1,6 @@
 # Data Science Fundamentals for Programmers
 
-Join us for a one-week immersive course that brings you to the foundations of Data Science to understand how algorithms learn from data and how they can be taken advantage of today.
+Join us for a one-week immersive course that brings you deep into the foundations of Data Science to learn to create algorithms that learn from data and can be put into production today. You will gain statistical intuition and learn to think probabalistically through code, the medium you already know and love. All-day schedules consist of interactive excersizes, competitions, and a final personal project.
 
 ### Requirements
 This course is for programmers who have little or no background in machine learning or statistics, but a love for hacking, and basic working knowledge of at least one language with statistical libraries (Python, R, Java/Clojure/Scala, Matlab, etc.).
