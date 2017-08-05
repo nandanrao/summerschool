@@ -3,7 +3,7 @@
 Join us for a one-week immersive course that brings you deep into the foundations of Data Science to learn to create algorithms that learn from data and can be put into production today. You will gain statistical intuition and learn to think probabalistically through code, the medium you already know and love. All-day schedules consist of interactive excersizes, competitions, and a final personal project.
 
 ### Requirements
-This course is for programmers who have little or no background in machine learning or statistics, but a love for hacking, and basic working knowledge of at least one language with statistical libraries (Python, R, Java/Clojure/Scala, Matlab, etc.).
+This course is for programmers with little or no background in machine learning or statistics, but a love for hacking and basic working knowledge of at least one language with statistical libraries (Python, R, Java/Clojure/Scala, Javascript, etc.).
 
 ### Course structure
 The mornings, from 9am - 12pm every day, consist of lectures focused on building theoretical knowledge, followed by open-ended exercises in the afternoon, from 1pm - 6pm, completed in any language/framework of the students' preference, designed to demystify the theory and show the underlying hackability of these ideas.
